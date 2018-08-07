@@ -11,7 +11,7 @@ time = gets.chomp
 puts"Who is the host?"
 host_name = gets.chomp
 puts "When is the RSVP date?"
-RSVP_date = gets.chomp
+RSVP_date = gets
 
 
 puts "Dear #{guest_name},
